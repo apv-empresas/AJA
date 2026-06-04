@@ -21,5 +21,5 @@ window.AJA_CONFIG = {
   redirectDelayMs: 1600,
 
   source: "landing_page_aja",
-  version: "1.0.0"
+  version: "1.0.1"
 };
